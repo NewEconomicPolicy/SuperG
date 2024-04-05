@@ -1,0 +1,12 @@
+'management.txt'  'soil.txt'  'site.txt'
+2		 DMODEL
+2		 ICMODEL
+1		 INMODEL
+2		 DOCMODEL
+1		 CNMODEL
+1		 SPARMODEL
+4		 EQMODEL
+0		 IMFUNC
+0		 ITFUNC
+0		 CH4MODEL
+0		 EC_EQRUN
